@@ -1,0 +1,11 @@
+
+["AllTheCompressed Blocks"]
+	#Enable AllTheModium Blocks
+	AllTheModium = true
+	#Enable AllTheOres Blocks
+	AllTheOres = true
+	#Enable Mekanism Blocks
+	Mekanism = true
+	#Enable Thermal Blocks
+	Thermal = true
+
